@@ -1,0 +1,5 @@
+dollar = float((input('Please enter your amount (in dollars): ')))
+print("Euros", dollar*0.9)
+print("Chinese Yuan", dollar*6.68)
+print("Indian Rupee", dollar*67.15)
+print("Swiss Franc", dollar*0.98)
