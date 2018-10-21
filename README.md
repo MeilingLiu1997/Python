@@ -5,3 +5,4 @@
 
 * Lab assignments collections
 * Project collections
+* In-class Practice collections
